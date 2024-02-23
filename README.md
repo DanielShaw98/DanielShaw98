@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **danielshaw71@gmail.com**
 
-- 💻 Check out my website **https://danielshaw.uk/**
+- 💻 Check out my website <a href="https://danielshaw.uk/" target="_blank">**https://danielshaw.uk/**</a>
 
 <h3 align="left">You can find me here 👇</h3>
 <p align="left">
