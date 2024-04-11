@@ -1,5 +1,5 @@
 <h1 align="left">Hi I'm Daniel 👋</h1>
-<h3 align="left">I'm a Junior Fullstack Developer, living in London, UK.</h3>
+<h3 align="left">I'm a Fullstack Developer, living in London, UK.</h3>
 
 - 🌱 I graduated from Le Wagon <img src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F297788319%2F170687624819%2F1%2Foriginal.20220606-121916?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2269%2C2269&s=f843a5548b81d13f67652aed88366573" alt="lewagon" width="20" height="20"/>, **studying the Fullstack Web Development course.**
 
