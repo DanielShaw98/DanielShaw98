@@ -24,7 +24,7 @@ const danielShaw = {
   education: "Le Wagon London, a 9-week full-time intensive coding bootcamp",
   otherAlias: "Full Stack Developer",
   codesIn: ["HTML", "CSS", "Ruby", "Javascript"],
-  currentlylearning: ["Ruby on Rails", "JavaScript ES6", "SQL"],
+  currentlylearning: ["Ruby on Rails", "JavaScript ES6", "SQL", React],
   toolsUsed: ["Visual Studio Code", "Bootstrap", "Figma", "GitHub", "Heroku"]
 }
 ```
