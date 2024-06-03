@@ -23,8 +23,8 @@ const danielShaw = {
   availableForHire: true,
   education: "Le Wagon London, a 9-week full-time intensive coding bootcamp",
   otherAlias: ["Full Stack Developer", "Software Engineer", "Web Developer"],
-  codesIn: ["HTML", "CSS", "Ruby", "Javascript"],
-  currentlylearning: ["Ruby on Rails", "JavaScript ES6", "SQL", React],
+  codesIn: ["HTML", "CSS", "Ruby", "Rails" "Javascript", "React", "SQL"],
+  currentlylearning: ["React", "Typescript"],
   toolsUsed: ["Visual Studio Code", "Bootstrap", "Figma", "GitHub", "Heroku"]
 }
 ```
