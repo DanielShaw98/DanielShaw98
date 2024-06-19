@@ -25,7 +25,7 @@ const danielShaw = {
   otherAlias: ["Full Stack Developer", "Software Engineer", "Web Developer"],
   codesIn: ["HTML", "CSS", "Ruby", "Rails" "Javascript", "React", "SQL"],
   currentlylearning: ["React", "Typescript", "Next.js", "Python"],
-  toolsUsed: ["Visual Studio Code", "Bootstrap", "Figma", "GitHub", "Heroku", "Vite", "Postman"]
+  toolsUsed: ["Visual Studio Code", "Bootstrap", "Figma", "GitHub", "Heroku", "Vite", "Postman", "Cloudinary"]
 }
 ```
 
