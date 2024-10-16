@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielshaw98&label=Profile%20views&color=ff4a01&style=flat" alt="danielshaw98" /> </p>
 
-- 🌱 I’m recently graduated from Le Wagon <img src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F297788319%2F170687624819%2F1%2Foriginal.20220606-121916?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2269%2C2269&s=f843a5548b81d13f67652aed88366573" alt="lewagon" width="20" height="20"/>, studying the Fullstack Web Development course.
+- 🌱 I’m recently graduated from Le Wagon <img src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F297788319%2F170687624819%2F1%2Foriginal.20220606-121916?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2269%2C2269&s=f843a5548b81d13f67652aed88366573" alt="lewagon" width="20" height="20"/>, studying the Full Stack Web Development course.
 
 - 💻 Check out my website [https://danielshaw.pro](https://danielshaw.pro)
 
