@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Daniel 👋</h1>
-<h3 align="center">I'm a Full Stack Developer, living in London, UK</h3>
+<h3 align="center">I'm a Full Stack Developer, living in London, UK.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielshaw98&label=Profile%20views&color=ff4a01&style=flat" alt="danielshaw98" /> </p>
 
